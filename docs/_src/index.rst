@@ -10,7 +10,7 @@ Welcome to libxert's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-    includeme
+   includeme
 
    intro
    tutorial
