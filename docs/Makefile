@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = libxert
 SOURCEDIR     = _src
-BUILDDIR      = ../../sphinx-docs
+BUILDDIR      = ../sphinx-docs
 
 # Put it first so that "make" without argument is like "make help".
 help:
